@@ -22,7 +22,7 @@
       "title": "Twitter",
       "link": "https://twitter.com/realchetanverma"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "4", "title": "Blog", "link": "https://bajwa.netlify.app/blog" },
     { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
   ],
   "projects": [
